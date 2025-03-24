@@ -39,6 +39,7 @@ html {
 	height: 100%;
 }
 
+
 body, p {
 	color: #4d5055; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
@@ -385,8 +386,10 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-image img {
-    width: 118px;
-	height: 36px;
+    width: 333x;
+	height: 70px;
+	
+	
 }
 
 .navbar .logo-text {
